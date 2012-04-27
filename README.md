@@ -1,5 +1,5 @@
 LocationAlarm
 =============
 
-Location Alarm and Remainders
+Location Alarm and Reminders
 Android App.
